@@ -107,6 +107,7 @@
 ### Databases
 
 - [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com) - Support for SQLAlchemy, a SQL toolkit and ORM
+- [Flask-Migrate](https://flask-migrate.readthedocs.io) - An extension that handles SQLAlchemy database migrations for Flask applications using Alembic
 - [Flask-Alembic](https://flask-alembic.readthedocs.io) - Configurable Alembic migration environment around a Flask-SQLAlchemy database for handling database migrations
 - [Flask-Peewee](https://flask-peewee.readthedocs.io) - Support for Peewee, an ORM and database migration tool
 - [Flask-Pony](https://pypi.org/project/Flask-Pony/) - Support for Pony ORM
